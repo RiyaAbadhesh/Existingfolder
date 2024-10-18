@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Adding some line from user2
+=======
+Adding line from branch1
+>>>>>>> 635ea13 (committed from user1)
