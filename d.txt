@@ -1,1 +1,4 @@
+
+Adding line from branch1
 Adding some line from user2
+
