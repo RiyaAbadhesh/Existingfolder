@@ -1,0 +1,2 @@
+Adding some line from user2
+Adding line from branch1
